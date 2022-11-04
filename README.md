@@ -23,15 +23,15 @@ You can copy the json from settings.json file and paste it into your VS Code set
 
 Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
 
-Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit)
+Youtube Channel: [https://www.instagram.com/infobijoychandradas/](https://www.instagram.com/infobijoychandradas/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
-[youtube-url]: https://youtube.com/LearnwithSumit
+[youtube-url]: https://www.youtube.com/channel/UCK-drZFw3wS4o_EOQYTZ9bw
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: https://facebook.com/letslearnwithsumit
+[facebook-url]: https://www.facebook.com/FreelancerBijoyChandraDas/
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]: https://instagram.com/learnwithsumit
+[instagram-url]: https://www.instagram.com/infobijoychandradas
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/learnwithsumit
+[linkedin-url]: https://www.linkedin.com/in/infobijoychandradas/
